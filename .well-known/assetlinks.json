@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ir.hossainco.stories.thousandcollection",
+    "sha256_cert_fingerprints":
+    ["EE:22:F4:90:37:7F:8B:98:77:2F:EA:FA:74:5A:6C:13:E7:8C:9D:25:F2:9A:6F:C2:9E:1C:04:FC:91:86:4C:3C"]
+  }
+}]
